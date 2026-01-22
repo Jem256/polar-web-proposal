@@ -7,7 +7,7 @@
 **Document Version:** 1.1  
 **Date:** January 2026  
 **Status:** Draft for Review  
-**Author:** Jemimah Nagasha, Solomon Eze ([@igbopa](https://github.com/igbopharaoh))
+**Authors:** [Jemimah Nagasha](https://github.com/Jem256), [Solomon Eze](https://github.com/igbopharaoh)
 
 ---
 
